@@ -64,9 +64,9 @@
 
 | Project | Live Demo |
 |----------|----------|
+| 🌐 BR30 Group | [Visit Website](https://br-30-group-com.vercel.app/) |
 | 🚀 BR30 Trader | [Visit Website](https://my-frontend-eight-roan.vercel.app/) |
 | 🛒 BR30 Kart | [Visit Website](https://br-30-kart.vercel.app/) |
-| 🌐 BR30 Group | [Visit Website](https://br-30-group-com.vercel.app/) |
 | 📈 BR30 Algo | [Visit Website](https://br30algo-com.vercel.app/) |
 | 👨‍💻 BR30 Founder | [Visit Website](https://br30-com.vercel.app/) |
 
