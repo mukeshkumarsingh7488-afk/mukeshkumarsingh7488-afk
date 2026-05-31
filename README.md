@@ -52,32 +52,23 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukeshkumarsingh7488-afk&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukeshkumarsingh7488-afk&theme=github_dark" />
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumarsingh7488-afk&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukeshkumarsingh7488-afk&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mukeshkumarsingh7488-afk&theme=github_dark" />
 
 ---
 
 # 🚀 Featured Projects
 
-## BR30 Trader
-Trading Education Platform built with modern web technologies.
-
-## BR30 Kart
-Digital Learning Marketplace for Courses & Educational Content.
-
-## BR30 Group
-Business Ecosystem Website connecting multiple BR30 projects.
-
-## BR30 Algo
-Technology & Trading Automation Project.
-
-## BR30 Founder
-Personal Portfolio Website showcasing projects and services.
+| Project | Live Demo |
+|----------|----------|
+| 🚀 BR30 Trader | [Visit Website](https://my-frontend-eight-roan.vercel.app/) |
+| 🛒 BR30 Kart | [Visit Website](https://br-30-kart.vercel.app/) |
+| 🌐 BR30 Group | [Visit Website](https://br-30-group-com.vercel.app/) |
+| 📈 BR30 Algo | [Visit Website](https://br30algo-com.vercel.app/) |
+| 👨‍💻 BR30 Founder | [Visit Website](https://br30-com.vercel.app/) |
 
 ---
 
@@ -93,17 +84,23 @@ Personal Portfolio Website showcasing projects and services.
 
 # 🌐 Connect With Me
 
-### LinkedIn
-www.linkedin.com/in/mukesh-raj-b75a65253
+🔗 **LinkedIn:** https://www.linkedin.com/in/mukeshraj-br30/
 
-### GitHub
-github.com/mukeshkumarsingh7488-afk
+🐙 **GitHub:** https://github.com/mukeshkumarsingh7488-afk
 
-### Instagram
-instagram.com/br30Traderofficial
+📸 **Instagram:** https://www.instagram.com/br30Traderofficial
 
-### YouTube
-youtube.com/@br30traderofficial
+▶️ **YouTube:** https://www.youtube.com/@br30traderofficial
+
+📢 **Telegram:** https://t.me/+hBAT4kWo63A4ZWY1
+
+💬 **WhatsApp Community:** https://chat.whatsapp.com/B4t82SWBcgOIZTeQXp1wDI
+
+🧵 **Threads:** https://www.threads.com/@br30traderofficial
+
+🐦 **X:** https://x.com/MukeshKuma48159
+
+👍 **Facebook:** https://www.facebook.com/share/1DDJYGYYDf/
 
 ---
 
