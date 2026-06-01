@@ -84,25 +84,45 @@
 
 # 🌐 Connect With Me
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/mukeshraj-br30/
+<p align="center">
 
-🐙 **GitHub:** https://github.com/mukeshkumarsingh7488-afk
+<a href="https://www.linkedin.com/in/mukeshraj-br30/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-📸 **Instagram:** https://www.instagram.com/br30Traderofficial
+<a href="https://github.com/mukeshkumarsingh7488-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-▶️ **YouTube:** https://www.youtube.com/@br30traderofficial
+<a href="https://www.instagram.com/br30Traderofficial">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-📢 **Telegram:** https://t.me/+hBAT4kWo63A4ZWY1
+<a href="https://www.youtube.com/@br30traderofficial">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
-💬 **WhatsApp Community:** https://chat.whatsapp.com/B4t82SWBcgOIZTeQXp1wDI
+<a href="https://t.me/+hBAT4kWo63A4ZWY1">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
-🧵 **Threads:** https://www.threads.com/@br30traderofficial
+<a href="https://chat.whatsapp.com/B4t82SWBcgOIZTeQXp1wDI">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-🐦 **X:** https://x.com/MukeshKuma48159
+<a href="https://www.threads.com/@br30traderofficial">
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+</a>
 
-👍 **Facebook:** https://www.facebook.com/share/1DDJYGYYDf/
+<a href="https://x.com/MukeshKuma48159">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
 
----
+<a href="https://www.facebook.com/share/1DDJYGYYDf/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+</p>
 
 <h3 align="center">
 🚀 Build • Innovate • Grow 🚀
