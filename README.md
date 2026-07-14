@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukesh Raj</h1>
 
-<h3 align="center">Frontend Developer | React.js Developer | JavaScript Enthusiast | Founder @ BR30 Group</h3>
+<h3 align="center">Founder @ BR30 Group | Full Stack Web Developer | SaaS Builder | Entrepreneur</h3>
 
 <p align="center">
-🚀 Building Real-World Web Applications & Digital Products
+🚀 Building Scalable SaaS Products, Modern Web Applications & Digital Platforms for the BR30 Ecosystem.
 </p>
 
 <p align="center">
@@ -14,37 +14,40 @@
 
 # 👨‍💻 About Me
 
-- 💻 Frontend Developer
-- ⚛️ React.js & JavaScript Enthusiast
-- 🚀 Founder of BR30 Group
-- 🌱 Building and improving every day
-- 🌍 Open to Remote Opportunities
-- 🔥 Passionate about Startups, Trading & Technology
-- 📍 Bangalore, India
+-💻 Full Stack Web Developer
+-🚀 Founder of BR30 Group
+-⚡ Building Production-Ready SaaS Platforms
+-📈 Passionate about Trading Technology
+-🌱 Always Learning & Building
+-📍 Bangalore, India
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### Tools
+### 🚀 Deployment & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
@@ -75,11 +78,12 @@
 
 # 🎯 Current Focus
 
-- Building scalable web applications
-- Learning advanced React.js concepts
-- Improving backend architecture
-- Growing BR30 Ecosystem
-- Exploring startup opportunities
+- Building Production SaaS Products
+- Full Stack Development
+- System Architecture
+- Trading Technology
+- Scaling BR30 Ecosystem
+- Building Future Engineering Team
 
 ---
 
@@ -120,5 +124,5 @@
 </p>
 
 <h3 align="center">
-🚀 Build • Innovate • Grow 🚀
+🚀 Building BR30 Ecosystem • One Product at a Time
 </h3>
