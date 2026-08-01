@@ -72,8 +72,10 @@
 | 🛒 BR30 Kart | [Visit Website](https://br-30-kart.vercel.app/) |
 | 📈 BR30 Algo | [Visit Website](https://br30algo-com.vercel.app/) |
 | 📊 BR30 Market Scanner | [Visit Website](https://br30marketscanner-com-frontade.vercel.app/) |
+| 🤖 BR30 Algo Terminal | [Visit Website](https://br30-algo-terminal-f.vercel.app/) |
+| 🍽️ BR30 FoodOS | [Visit Website](https://br-30-food-os-f.vercel.app/) |
+| 🔳 BR30 QR Studio | [Visit Website](https://br-30-qr-studio-xi.vercel.app/) |
 | 👨‍💻 BR30 Founder | [Visit Website](https://br30-com.vercel.app/) |
-
 ---
 
 # 🎯 Current Focus
