@@ -113,17 +113,27 @@
 
 ### 🚀 BR30 Ecosystem
 
-[![BR30 Trader](https://img.shields.io/badge/BR30_Trader-Official_Website-2962FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://my-frontend-eight-roan.vercel.app/)
+[![BR30 Trader](https://img.shields.io/badge/BR30_Trader-Official_Website-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-frontend-eight-roan.vercel.app/)
 
-[![BR30 Group](https://img.shields.io/badge/BR30_Group-Official_Website-6A1B9A?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://br-30-group-com.vercel.app/)
+[![BR30 Group](https://img.shields.io/badge/BR30_Group-Official_Website-6A1B9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br-30-group-com.vercel.app/)
 
-[![BR30 Kart](https://img.shields.io/badge/BR30_Kart-Official_Website-F57C00?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://br-30-kart.vercel.app/)
+[![BR30 Kart](https://img.shields.io/badge/BR30_Kart-Official_Website-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br-30-kart.vercel.app/)
 
-[![BR30 Founder](https://img.shields.io/badge/BR30_Founder-Official_Website-8E24AA?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://br30-com.vercel.app/)
+[![BR30 Founder](https://img.shields.io/badge/BR30_Founder-Official_Website-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br30-com.vercel.app/)
 
-[![BR30 Algo](https://img.shields.io/badge/BR30_Algo-Official_Website-1565C0?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://br30algo-com.vercel.app/)
+[![BR30 Algo](https://img.shields.io/badge/BR30_Algo-Official_Website-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br30algo-com.vercel.app/)
 
-[![BR30\_Market\_Scanner](https://img.shields.io/badge/BR30_Market_Scanner-Official_Website-455A64?style=for-the-badge\&logo=tradingview\&logoColor=white)](https://br30marketscanner-com-frontade.vercel.app/)
+[![BR30 Market Scanner](https://img.shields.io/badge/BR30_Market_Scanner-Official_Website-455A64?style=for-the-badge&logo=tradingview&logoColor=white)](https://br30marketscanner-com-frontade.vercel.app/)
+
+[![BR30 Algo Terminal](https://img.shields.io/badge/BR30_Algo_Terminal-Live_Demo-00897B?style=for-the-badge&logo=terminal&logoColor=white)](https://br30-algo-terminal-f.vercel.app/)
+
+[![BR30 FoodOS](https://img.shields.io/badge/BR30_FoodOS-Live_Demo-2E7D32?style=for-the-badge&logo=foodpanda&logoColor=white)](https://br-30-food-os-f.vercel.app/)
+
+[![BR30 QR Studio](https://img.shields.io/badge/BR30_QR_Studio-Live_Demo-AD1457?style=for-the-badge&logo=qrcode&logoColor=white)](https://br-30-qr-studio-xi.vercel.app/)
+
+[![BR30 CRM](https://img.shields.io/badge/BR30_CRM-Live_Demo-0277BD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br30crm-com-f.vercel.app/)
+
+[![BR30 Talent Pipeline](https://img.shields.io/badge/BR30_Talent_Pipeline-Live_Demo-7B1FA2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://br30talentpipelinef.vercel.app/)
 
 </p>
 
