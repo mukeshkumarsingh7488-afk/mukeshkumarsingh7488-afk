@@ -77,6 +77,7 @@
 | 🔳 BR30 QR Studio | [Visit Website](https://br-30-qr-studio-xi.vercel.app/) |
 | 👨‍💻 BR30 Founder | [Visit Website](https://br30-com.vercel.app/) |
 | 👨‍💻 BR30 CRM | [Visit Website](https://br30crm-com-f.vercel.app/) |
+| 👨‍💻 BR30 Talent Pipeline | https://br30talentpipelinef.vercel.app/ |
 ---
 
 # 🎯 Current Focus
